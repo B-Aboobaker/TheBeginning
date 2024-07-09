@@ -5,7 +5,7 @@
 ## Where my coding journey began... (2019)
 
 Not much to see here... Just thought I could display where my coding journey all began.
-And it all started when I came across this YouTube video:
+And it all started when I came across this YouTube video: 
 [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## Context
