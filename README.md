@@ -14,9 +14,9 @@ And it all started when I came across this YouTube video:
 - 'Strings.py' was about understanding what a String is as well as a few built in String functions
 - 'Numbers.py' was about learning the different numeric possibilities such as whole numbers, decimals, math module, as well as a few built in Numeric functions
 - 'Stings2.py' was to visualise indexing with zero being the first index
-- 'Variables & Data Types.py' was about learning how to concatenate multiple variables
-- 'Getting Input From Users.py' I remember when I first did this, my mind was blown because I always wondered how that worked
-- 'Building A Basic Calculator.py' My calculator can only perform addition 
+- 'Variables & Data Types.py' was about learning how to concatenate various variables
+- 'Getting Input From Users.py' I remember when I first did this, my mind was blown because I've always wondered how that worked
+- 'Building A Basic Calculator.py' My first calculator can only perform addition calculations
 
 ### PythonLogic
 - 'if Statements.py' this was about understanding the basic if-else logic
