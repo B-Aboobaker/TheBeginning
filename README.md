@@ -4,7 +4,7 @@
 
 Not much to see here... Just thought I could showcase where my coding journey all began.
 And it all started when I came across this YouTube video:
-[text](https://www.youtube.com/watch?v=rfscVS0vtbw)
+[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## Context
 Take note that this is all BARE basics!!!
