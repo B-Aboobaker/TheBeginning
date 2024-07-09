@@ -1,5 +1,7 @@
 # TheBeginning
 
+![The Beginning](/assets/images/Aboobaker2019.jpg "Aboobaker 2019")
+
 ## Where my coding journey began... (2019)
 
 Not much to see here... Just thought I could display where my coding journey all began.
