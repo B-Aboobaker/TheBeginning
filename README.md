@@ -7,7 +7,7 @@ And it all started when I came across this YouTube video:
 [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## Context
-Take note that this is all BARE basics!!!
+**Take note that this is all BARE basics!!!**
 
 ### PythonBasics
 - I guess all programmers really do begin their Journey with 'Hello World'
