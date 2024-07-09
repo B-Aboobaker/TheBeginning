@@ -1,6 +1,6 @@
 # TheBeginning
 
-<img src="assets/images/Aboobaker2019.jpg" alt="Aboobaker in 2019" width="400">
+<img src="assets/images/Aboobaker2019.jpg" alt="Aboobaker in 2019" width="500">
 
 ## Where my coding journey began... (2019)
 
