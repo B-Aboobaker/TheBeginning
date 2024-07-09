@@ -8,8 +8,18 @@ Not much to see here... Just thought I could display where my coding journey all
 And it all started when I came across this YouTube video: 
 [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
+## Table of Contents
+- [TheBeginning](#thebeginning)
+- [Where my coding journey began... \(2019\)](#where-my-coding-journey-began-2019)
+- [Table of Contents](#table-of-contents)
+- [Context](#context)
+- [PythonBasics](#pythonbasics)
+- [PythonLogic](#pythonlogic)
+- [GettingToKnowPythonBetter](#gettingtoknowpythonbetter)
+
 ## Context
-**Take note that this is all BARE basics!!!**
+**Take note that this is all BARE basics!!!**<br />
+Breif context provided below
 
 ## PythonBasics
 - I guess all programmers really do begin their Journey with `Hello World`
